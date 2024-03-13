@@ -20,7 +20,7 @@ public class GenrePlaylist implements PlayList {
     }
     
     
-//implement the playList methods 
+//implement playList methods 
     @Override
     public boolean isEmpty() {
         throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
